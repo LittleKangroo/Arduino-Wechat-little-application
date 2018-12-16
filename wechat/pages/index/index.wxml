@@ -1,0 +1,7 @@
+
+<!--index.wxml-->
+<view>
+<button bindtap='send'>开</button>
+<button bindtap='back'>关</button>
+<text>小组成员:陈臻瑞，侯毓琪，郭佳文，尼伦</text>
+</view>
